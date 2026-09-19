@@ -1,0 +1,26 @@
+test,output,max_abs_reference_error,check,status,target_max_covariance_z,reference_max_covariance_z,mean_max_z,target_relative_frobenius_error,original_relative_frobenius_error
+1.1,testout_1.1.csv,2.220446049250313e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+1.2,testout_1.2.csv,2.220446049250313e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+1.3,testout_1.3.csv,4.440892098500626e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+1.4,testout_1.4.csv,2.220446049250313e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+2.1,testout_2.1.csv,2.220446049250313e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+2.2,testout_2.2.csv,3.3306690738754696e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+2.3,testout_2.3.csv,3.3306690738754696e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+3.1,testout_3.1.csv,9.957312752106873e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+3.2,testout_3.2.csv,1.4432899320127035e-15,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+3.3,testout_3.3.csv,1.2698175844150228e-15,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+3.4,testout_3.4.csv,2.3314683517128287e-15,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+4.1,testout_4.1.csv,1.457167719820518e-16,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+5.1,testout_5.1.csv,0.0008785029715464437,Monte Carlo: 6 SE and 2% relative Frobenius error,PASS,1.6922905772506784,1.6345537345890533,2.0192536416018037,0.005524993618865637,0.005524993618865637
+5.2,testout_5.2.csv,0.001659069189429041,Monte Carlo: 6 SE and 2% relative Frobenius error,PASS,2.0476768407481125,1.8837879215436526,2.199248926827524,0.007200426951988863,0.007200426951988863
+5.3,testout_5.3.csv,0.0008785029715464437,Monte Carlo: 6 SE and 2% relative Frobenius error,PASS,1.5256575134998998,1.6345537345890533,1.8097441711388929,0.003898816608625051,0.07788368624293046
+5.4,testout_5.4.csv,0.0008785029715464437,Monte Carlo: 6 SE and 2% relative Frobenius error,PASS,1.5256575134999362,1.6345537345890533,1.8097441711388926,0.0038755836471560767,0.09548977532704132
+5.5,testout_5.5.csv,0.0008908324240494148,Monte Carlo: 6 SE and 2% relative Frobenius error,PASS,1.8618911552377189,0.8776718323425184,1.9611637200355763,0.00760438110295498,0.007941123003815442
+6.1,testout6_1.csv,9.996344030316351e-17,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+6.2,testout6_2.csv,9.985502008591496e-17,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+7.1,testout7_1.csv,2.7755575615628914e-17,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+7.2,testout7_2.csv,3.05302538805563e-09,"allclose: rtol=0.0001, atol=1e-07",PASS,,,,,
+7.3,testout7_3.csv,1.4649758739437857e-08,"allclose: rtol=0.0001, atol=1e-07",PASS,,,,,
+7.4,testout7_4.csv,1.1368683772161603e-13,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+7.5,testout7_5.csv,3.552713678800501e-14,"allclose: rtol=1e-08, atol=1e-09",PASS,,,,,
+7.6,testout7_6.csv,1.4637180356658064e-12,"allclose: rtol=0.0001, atol=1e-07",PASS,,,,,
