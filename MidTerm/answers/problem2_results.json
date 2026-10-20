@@ -1,0 +1,67 @@
+{
+  "source": "/Users/sukeer/Documents/FinTech-545-Fall2026/MidTerm/problem2.csv",
+  "source_sha256": "eb28b2b7d474b73a8c80a2097be6e9d457fffefbe29674f628c00fce371f26f5",
+  "price_observations": 501,
+  "return_observations": 500,
+  "first_date": "2024-01-02",
+  "last_date": "2025-12-02",
+  "alpha": -0.00030402180459933846,
+  "beta": 1.1933107571309085,
+  "spy_mean": 0.00025477169528774344,
+  "spy_variance": 0.00012038641189345158,
+  "spy_sd": 0.010972074183738077,
+  "residual_mean": 3.3306690738754697e-19,
+  "residual_variance": 0.0002128694492205907,
+  "residual_sd": 0.01459004623778111,
+  "market_residual_covariance": 1.3905599005826108e-19,
+  "stock_mean": 3.7947076036992655e-18,
+  "stock_variance": 0.00038429856368045034,
+  "stock_sd": 0.01960353446908109,
+  "market_variance_contribution": 0.00017142911445985966,
+  "shares": 100,
+  "last_xyz_price": 74.51829423185997,
+  "position_value": 7451.829423185997,
+  "results": [
+    {
+      "confidence": 0.95,
+      "tail_probability": 0.050000000000000044,
+      "standard_normal_quantile": -1.6448536269514715,
+      "normal_es_multiplier": 2.062712807507429,
+      "var_return": 0.03224494477253621,
+      "var_percent": 3.2244944772536215,
+      "es_return": 0.0404364616217869,
+      "es_percent": 4.04364616217869,
+      "var_dollars": 240.28382820499286,
+      "es_dollars": 301.325614482763
+    },
+    {
+      "confidence": 0.99,
+      "tail_probability": 0.010000000000000009,
+      "standard_normal_quantile": -2.3263478740408408,
+      "normal_es_multiplier": 2.665214220345806,
+      "var_return": 0.045604640735833125,
+      "var_percent": 4.560464073583312,
+      "es_return": 0.05224761883603408,
+      "es_percent": 5.224761883603408,
+      "var_dollars": 339.838003669108,
+      "es_dollars": 389.34034333376565
+    }
+  ],
+  "monte_carlo_draws": 2000000,
+  "monte_carlo_checks": [
+    {
+      "confidence": 0.95,
+      "var_percent": 3.2238438515223815,
+      "es_percent": 4.0400496403572195
+    },
+    {
+      "confidence": 0.99,
+      "var_percent": 4.555884973904669,
+      "es_percent": 5.2150844675523285
+    }
+  ],
+  "alternative_conventions": {
+    "mle_sd": 0.019583921123030736,
+    "regression_n_minus_2_sd": 0.01961443377652448
+  }
+}

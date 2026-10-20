@@ -1,0 +1,51 @@
+[
+  {
+    "stock": "S2",
+    "selected": "Student t",
+    "primary_loglik": 2816.691895364519,
+    "independent_scipy_loglik": 2816.6918953630325,
+    "primary_minus_independent": 1.4865690900478512e-09
+  },
+  {
+    "stock": "S3",
+    "selected": "NIG",
+    "primary_loglik": 2644.840578490674,
+    "independent_scipy_loglik": 2644.8405784710626,
+    "primary_minus_independent": 1.961143425432965e-08
+  },
+  {
+    "stock": "S5",
+    "selected": "Student t",
+    "primary_loglik": 2578.446785768205,
+    "independent_scipy_loglik": 2578.446785766908,
+    "primary_minus_independent": 1.2969394447281957e-09
+  },
+  {
+    "stock": "S6",
+    "selected": "NIG",
+    "primary_loglik": 2872.717827152086,
+    "independent_scipy_loglik": 2872.717827119914,
+    "primary_minus_independent": 3.217201083316468e-08
+  },
+  {
+    "stock": "S8",
+    "selected": "Student t",
+    "primary_loglik": 2749.655825211734,
+    "independent_scipy_loglik": 2749.6558251968618,
+    "primary_minus_independent": 1.4872057363390923e-08
+  },
+  {
+    "stock": "S9",
+    "selected": "NIG",
+    "primary_loglik": 2536.7749191730372,
+    "independent_scipy_loglik": 2536.7749191530706,
+    "primary_minus_independent": 1.996659193537198e-08
+  },
+  {
+    "stock": "S10",
+    "selected": "Student t",
+    "primary_loglik": 2990.4405530444756,
+    "independent_scipy_loglik": 2990.440553040546,
+    "primary_minus_independent": 3.9294718590099365e-09
+  }
+]

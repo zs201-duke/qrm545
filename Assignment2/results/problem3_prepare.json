@@ -1,0 +1,20 @@
+{
+  "A_moments": {
+    "n": 10000,
+    "mean": 0.08370921284221988,
+    "variance": 0.018492649413585884,
+    "skewness": -4.823246084573826,
+    "excess_kurtosis": 22.093642254090636
+  },
+  "B_moments": {
+    "n": 10000,
+    "mean": 0.08501131714326597,
+    "variance": 0.01745087959730686,
+    "skewness": -4.915515617886891,
+    "excess_kurtosis": 23.086508098723154
+  },
+  "A_below_minus_20pct": 406,
+  "B_below_minus_20pct": 393,
+  "at_least_one_below_minus_20pct": 782,
+  "both_below_minus_20pct": 17
+}

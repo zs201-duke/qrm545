@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qrm545-risk"
+version = "0.1.0"
+description = "Reusable covariance, VaR, distribution-fitting, and copula helpers for QRM 545"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.0",
+  "scipy>=1.14",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["qrm545*"]
+
+[tool.setuptools.package-data]
+qrm545 = ["py.typed"]

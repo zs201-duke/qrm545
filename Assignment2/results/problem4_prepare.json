@@ -1,0 +1,80 @@
+{
+  "moments": {
+    "X1": {
+      "n": 1000,
+      "mean": 0.0002565849819167245,
+      "variance": 0.00014146968345814077,
+      "skewness": -0.034225838792853513,
+      "excess_kurtosis": -0.11713301357710293
+    },
+    "X2": {
+      "n": 1000,
+      "mean": -0.0002523809385968372,
+      "variance": 0.00026141989816181585,
+      "skewness": -0.6150400422992357,
+      "excess_kurtosis": 7.124957198602878
+    },
+    "X3": {
+      "n": 1000,
+      "mean": 0.0008897999284201763,
+      "variance": 0.00010037676103252865,
+      "skewness": 0.0740661805883955,
+      "excess_kurtosis": 2.8740890899493863
+    }
+  },
+  "single_observation_check": {
+    "X1": {
+      "removed_row": 952,
+      "removed_value": -0.0400003224297818,
+      "moments_without": {
+        "n": 999,
+        "mean": 0.0002968821865330392,
+        "variance": 0.00013998594482915168,
+        "skewness": -0.005495698270097947,
+        "excess_kurtosis": -0.1876367953878142
+      }
+    },
+    "X2": {
+      "removed_row": 952,
+      "removed_value": -0.1429144160983049,
+      "moments_without": {
+        "n": 999,
+        "mean": -0.00010957609859712944,
+        "variance": 0.0002412681855296987,
+        "skewness": 0.05586701362422761,
+        "excess_kurtosis": 1.7247130285733645
+      }
+    },
+    "X3": {
+      "removed_row": 952,
+      "removed_value": -0.0612444754968206,
+      "moments_without": {
+        "n": 999,
+        "mean": 0.0009519964003173143,
+        "variance": 9.660506167952015e-05,
+        "skewness": 0.3131515956386594,
+        "excess_kurtosis": 1.73070809852251
+      }
+    }
+  },
+  "rank_tail_counts": [
+    {
+      "pair": "X1-X2",
+      "lower_joint_count": 6,
+      "upper_joint_count": 8,
+      "independence_expected": 0.6250000000000001
+    },
+    {
+      "pair": "X1-X3",
+      "lower_joint_count": 7,
+      "upper_joint_count": 12,
+      "independence_expected": 0.6250000000000001
+    },
+    {
+      "pair": "X2-X3",
+      "lower_joint_count": 6,
+      "upper_joint_count": 9,
+      "independence_expected": 0.6250000000000001
+    }
+  ]
+}

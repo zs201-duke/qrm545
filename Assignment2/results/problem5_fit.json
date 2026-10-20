@@ -1,0 +1,74 @@
+{
+  "regression": {
+    "A": {
+      "alpha": 0.00020501260562239164,
+      "beta": 1.0352779580992264,
+      "residual_sd": 0.012888300301826717
+    },
+    "B": {
+      "alpha": 0.00031477259561914797,
+      "beta": 0.9354172058225027,
+      "residual_sd": 0.011538442248535237
+    }
+  },
+  "residual_correlation": 0.6983069893066782,
+  "residual_covariance": [
+    [
+      0.0001661082846700666,
+      0.00010384586694141765
+    ],
+    [
+      0.00010384586694141765,
+      0.00013313564952278285
+    ]
+  ],
+  "market_sd": 0.010552716980844656,
+  "sample_stock_covariance": [
+    [
+      0.00028546380672005335,
+      0.00021168860430681978
+    ],
+    [
+      0.00021168860430681978,
+      0.00023057610139892118
+    ]
+  ],
+  "implied_full_covariance": [
+    [
+      0.00028546380672005313,
+      0.00021168860430681964
+    ],
+    [
+      0.00021168860430681964,
+      0.00023057610139892108
+    ]
+  ],
+  "implied_zero_residual_corr_covariance": [
+    [
+      0.00028546380672005313,
+      0.00010784273736540199
+    ],
+    [
+      0.00010784273736540199,
+      0.00023057610139892108
+    ]
+  ],
+  "max_abs_sample_minus_implied_full": 2.168404344971009e-19,
+  "risk": {
+    "P1_long_A_long_B": {
+      "full_residual_simulation_VaR": 50345.08520700124,
+      "zero_residual_correlation_simulation_VaR": 44500.91774581857,
+      "delta_normal_VaR": 50414.61921745629,
+      "full_minus_zero": 5844.1674611826675,
+      "full_minus_delta": -69.5340104550487
+    },
+    "P2_long_A_short_B": {
+      "full_residual_simulation_VaR": 15921.75871042627,
+      "zero_residual_correlation_simulation_VaR": 28507.524131102316,
+      "delta_normal_VaR": 15833.602246029472,
+      "full_minus_zero": -12585.765420676047,
+      "full_minus_delta": 88.15646439679767
+    }
+  },
+  "simulation_count": 100000
+}

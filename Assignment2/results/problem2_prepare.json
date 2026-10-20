@@ -1,0 +1,20 @@
+{
+  "moments": {
+    "n": 500,
+    "mean": -2.220446049250313e-19,
+    "variance": 0.00014189813094424568,
+    "skewness": -0.15605505650651794,
+    "excess_kurtosis": 2.1659417931476597
+  },
+  "return_count": 500,
+  "lambda_0.97": {
+    "effective_sample_size": 65.66663473349942,
+    "half_life": 22.75657306277341,
+    "recent_50_weight": 0.781934814776917
+  },
+  "lambda_0.94": {
+    "effective_sample_size": 32.333333333330934,
+    "half_life": 11.202305583621158,
+    "recent_50_weight": 0.954669273439306
+  }
+}
