@@ -1,0 +1,17 @@
+P2: N=25, American call=3.47227511, put=5.39622097; 0.00s
+P2: N=50, American call=3.47151502, put=5.36798108; 0.00s
+P2: N=55, American call=3.48416500, put=5.38451254; 0.00s
+P2: N=100, American call=3.47264789, put=5.37931881; 0.00s
+P2: N=105, American call=3.46511534, put=5.36824270; 0.01s
+P2: N=150, American call=3.46825346, put=5.36932177; 0.02s
+P2: N=200, American call=3.46754401, put=5.37113508; 0.06s
+P2: N=205, American call=3.46723066, put=5.37282930; 0.06s
+P2: N=300, American call=3.46996001, put=5.37207517; 0.42s
+P2: N=305, American call=3.46970514, put=5.37065949; 0.42s
+P2: N=400, American call=3.46761177, put=5.36952273; 1.29s
+P2: N=405, American call=3.46901842, put=5.37174375; 1.30s
+P2: N=600, American call=3.46747814, put=5.37033092; 6.98s
+P2: N=605, American call=3.46841002, put=5.37059375; 7.02s
+P3: completed Normal, 1,000,000 paths
+P3: completed StudentT, 1,000,000 paths
+P4: optimization and 500 whole-month bootstrap samples complete

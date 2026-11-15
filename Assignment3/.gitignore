@@ -1,0 +1,6 @@
+.venv/
+.mplconfig/
+__pycache__/
+tests/__pycache__/
+tmp/
+.DS_Store

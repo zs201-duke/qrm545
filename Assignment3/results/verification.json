@@ -1,0 +1,14 @@
+{
+  "pdf_pages": 25,
+  "pdf_visual_review": "All 25 final rendered pages inspected; no clipped text, broken tables or missing glyphs observed.",
+  "unit_tests": "9 passed; results/tests.txt",
+  "analysis_run": "Complete prepare and five-problem fit with defaults; results/fit_console.txt",
+  "source_scope": "Eight weekly note sources and seven available slide sources, including speaker notes.",
+  "extra_checks": [
+    "Prediction SHA-256 matches saved fit provenance",
+    "Exact omitted-factor alpha identity verified for both funds",
+    "All simulated ES estimates exceed matching VaR"
+  ],
+  "submitted_externally": false,
+  "pdf_sha256": "8c1183f54431ae21322e312f3f7781e1df631ce558f669fbeb44cfacb9f9f2f8"
+}

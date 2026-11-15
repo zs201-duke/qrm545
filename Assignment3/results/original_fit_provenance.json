@@ -1,0 +1,13 @@
+{
+  "started_at_utc": "2026-11-14T23:55:36.349938+00:00",
+  "predictions_sha256": "fc6bc3e2a491cfadfaac5821de45357c41bc90140e363ea2bcd0139cd26c9a4d",
+  "prepared_at_utc": "2026-11-14T23:52:40.877823+00:00",
+  "arguments": {
+    "stage": "fit",
+    "problem": null,
+    "steps": 400,
+    "nsim": 1000000,
+    "bootstrap": 500,
+    "seed": 5452026
+  }
+}

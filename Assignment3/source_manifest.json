@@ -1,0 +1,89 @@
+{
+  "Week01/week01.qmd": {
+    "sha256": "eb6deef02e0be7e7a9c58fcef51fc75cf7994ee1c0e775b29cee540d848c7e86",
+    "lines": 561,
+    "role": "lecture notes"
+  },
+  "Week02/week02.qmd": {
+    "sha256": "07b3f4d315d105903fd92d58c505e9c4de782be4a17e7c71dd0a9bc2fd01112b",
+    "lines": 907,
+    "role": "lecture notes"
+  },
+  "Week02/slides/week02-slides.qmd": {
+    "sha256": "e28785037f111931a88cf19e2ac93515db14e393091fac74ec9b7c9912c9b877",
+    "lines": 868,
+    "role": "slide source including speaker notes"
+  },
+  "Week03/week03.qmd": {
+    "sha256": "8237fa1638c4f00f4cd1a978d442afa5c597684d30b00511b4e02a6137130952",
+    "lines": 695,
+    "role": "lecture notes"
+  },
+  "Week03/slides/week03-slides.qmd": {
+    "sha256": "9319fae7ddcca4ad94d18d57d30df1656b66a8c932267f99bf7e64696daebbae",
+    "lines": 925,
+    "role": "slide source including speaker notes"
+  },
+  "Week04/week04.qmd": {
+    "sha256": "44c14b2a06e41561310a83609dcfd10ec98eee0206d37ef946c2b7744df5de23",
+    "lines": 534,
+    "role": "lecture notes"
+  },
+  "Week04/slides/week04-slides.qmd": {
+    "sha256": "ad63dd6a6457903a29c0e36e34143e019a891744587abcd04d80e4007a02e714",
+    "lines": 806,
+    "role": "slide source including speaker notes"
+  },
+  "Week05/week05.qmd": {
+    "sha256": "1724d541e9916210e1a396f71a612dea033b03096c3f3c2520ba10d43f787bd6",
+    "lines": 776,
+    "role": "lecture notes"
+  },
+  "Week05/slides/week05-slides.qmd": {
+    "sha256": "00e6a1b728b87cb130b61d14f206e9c66d0b95ca192ac4d76d7ea14fb83caa0b",
+    "lines": 1302,
+    "role": "slide source including speaker notes"
+  },
+  "Week06/week06.qmd": {
+    "sha256": "99cca19716a020a083248da369903752679ddfb812e2bacf09018aca13c96a99",
+    "lines": 600,
+    "role": "lecture notes"
+  },
+  "Week06/slides/week06-slides.qmd": {
+    "sha256": "e6658d091e7e5319d1d2d648b5bff3c1eac38f9de5bccad7bf4cda39418189be",
+    "lines": 852,
+    "role": "slide source including speaker notes"
+  },
+  "Week07/week07.qmd": {
+    "sha256": "3d751b17a5e90821db0d35e52d5b3203c746f19732d8bd0f2b1a3bcb16056618",
+    "lines": 507,
+    "role": "lecture notes"
+  },
+  "Week07/slides/week07-slides.qmd": {
+    "sha256": "8119d461903483c163028fe77a9446428542d06cdd904da0e62e5a9513680f09",
+    "lines": 977,
+    "role": "slide source including speaker notes"
+  },
+  "Week08/week08.qmd": {
+    "sha256": "ac741074932421eea05fde97ed12f0a032f4f8941744f6d49a57a22edd349869",
+    "lines": 627,
+    "role": "lecture notes"
+  },
+  "Week08/slides/week08-slides.qmd": {
+    "sha256": "91fb2dead3edc80112c04fd53ed274b3353db611054e680951c9b2ffcee18713",
+    "lines": 860,
+    "role": "slide source including speaker notes"
+  },
+  "Assignments/Assignment3/Assignment 3.pdf": {
+    "sha256": "e207345a2d133fff2d4bb8beb7ad5dcdb223c0cb962e01e355e3ae5c58dcbc81",
+    "role": "assignment requirements"
+  },
+  "library/gbsm.jl": {
+    "sha256": "bc25dae6a7eb9dc200dbf99b2125dc4fabe7975605f441ae189da8211afc8506",
+    "role": "course implementation reference"
+  },
+  "Week07/Project/bt_american.jl": {
+    "sha256": "af2ae82c14d758e37aa9dc69305953880750dd5f879f15cf1167fcd464c724f3",
+    "role": "course implementation reference"
+  }
+}

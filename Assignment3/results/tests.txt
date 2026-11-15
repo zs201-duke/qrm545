@@ -1,0 +1,14 @@
+test_american_dominance_dividend_parity_and_monotonicity (test_finance.OptionChecks.test_american_dominance_dividend_parity_and_monotonicity) ... ok
+test_gbsm_parity_and_price_bounds (test_finance.OptionChecks.test_gbsm_parity_and_price_bounds) ... ok
+test_greeks_against_independent_finite_differences (test_finance.OptionChecks.test_greeks_against_independent_finite_differences) ... ok
+test_implied_vol_roundtrip_and_invalid_quote (test_finance.OptionChecks.test_implied_vol_roundtrip_and_invalid_quote) ... ok
+test_tree_against_exhaustive_paths_with_two_dividends (test_finance.OptionChecks.test_tree_against_exhaustive_paths_with_two_dividends) ... ok
+test_tree_converges_to_closed_form (test_finance.OptionChecks.test_tree_converges_to_closed_form) ... ok
+test_exact_probability_mass_es_and_coherence (test_finance.RiskAndPortfolioChecks.test_exact_probability_mass_es_and_coherence) ... ok
+test_frontier_constraints_and_endpoint (test_finance.RiskAndPortfolioChecks.test_frontier_constraints_and_endpoint) ... ok
+test_tangency_against_independent_direct_search (test_finance.RiskAndPortfolioChecks.test_tangency_against_independent_direct_search) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.031s
+
+OK
