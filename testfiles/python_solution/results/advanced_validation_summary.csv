@@ -1,0 +1,26 @@
+test,output,max_abs_reference_error,check,status,max_reference_z
+8.1,testout8_1.csv,2.7755575615628914e-17,"allclose: rtol=1e-08, atol=1e-08",PASS,
+8.2,testout8_2.csv,1.1879372485701367e-11,"allclose: rtol=1e-08, atol=1e-08",PASS,
+8.3,testout8_3.csv,0.005913763174674784,Monte Carlo: 6 combined asymptotic SE,PASS,2.7080562732001496
+8.4,testout8_4.csv,7.428030412981457e-12,"allclose: rtol=1e-08, atol=1e-08",PASS,
+8.5,testout8_5.csv,1.3989958219662313e-09,"allclose: rtol=1e-08, atol=1e-08",PASS,
+8.6,testout8_6.csv,0.0013092660085832486,Monte Carlo: 6 combined asymptotic SE,PASS,0.29498232113828093
+9.1,testout9_1.csv,4.5227893306332305,Monte Carlo: 6 combined asymptotic SE,PASS,2.705991478141749
+10.1,testout10_1.csv,1.2848500041684474e-10,"allclose: rtol=1e-05, atol=5e-07",PASS,
+10.2,testout10_2.csv,3.8654635048374075e-11,"allclose: rtol=1e-05, atol=5e-07",PASS,
+10.3,testout10_3.csv,7.168588833650347e-08,"allclose: rtol=1e-05, atol=5e-07",PASS,
+10.4,testout10_4.csv,2.0025345354168778e-08,"allclose: rtol=1e-05, atol=5e-07",PASS,
+11.1,testout11_1.csv,3.469446951953614e-16,"allclose: rtol=1e-08, atol=1e-08",PASS,
+11.2,testout11_2.csv,1.0824674490095276e-15,"allclose: rtol=1e-08, atol=1e-08",PASS,
+12.1,testout12_1.csv,1.7763568394002505e-15,"allclose: rtol=1e-08, atol=1e-08",PASS,
+12.2,testout12_2.csv,1.1733938265479082e-09,"allclose: rtol=1e-05, atol=5e-06",PASS,
+12.3,testout12_3.csv,5.329070518200751e-15,"allclose: rtol=1e-08, atol=1e-08",PASS,
+13.1,testout13_1.csv,1.6653345369377348e-16,"allclose: rtol=1e-08, atol=1e-08",PASS,
+13.2,testout13_2.csv,6.505213034913027e-17,"allclose: rtol=1e-08, atol=1e-08",PASS,
+13.3,testout13_3.csv,7.865886761382335e-17,"allclose: rtol=1e-08, atol=1e-08",PASS,
+13.4,testout13_4.csv,5.002220859751105e-12,"allclose: rtol=1e-08, atol=1e-08",PASS,
+13.5,testout13_5.csv,1.0390522220404819e-08,"allclose: rtol=1e-07, atol=1e-06",PASS,
+13.6,testout13_6.csv,4.1019120544660836e-08,"allclose: rtol=1e-07, atol=1e-06",PASS,
+13.7,testout13_7.csv,8.203824108932167e-08,"allclose: rtol=1e-07, atol=1e-06",PASS,
+13.8,testout13_8.csv,1.6653345369377348e-16,"allclose: rtol=1e-07, atol=1e-06",PASS,
+13.9,testout13_9.csv,1.7853250693424343,Monte Carlo: 6 combined asymptotic SE,PASS,2.4839431926316333
